@@ -53,6 +53,7 @@ thelancet.com$boost=10
 jci.org$boost=10
 sagepub.com$boost=10
 rabek.org$boost=10
+arxiv.org$boost=10
 
 computer.org/csdl/$boost=10
 
