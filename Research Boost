@@ -1,9 +1,10 @@
 ! name: Research Boost
 ! description: Boost websites which provide scholarly and/or research papers.
 ! public: true
-! author: NoUsr
-! homepage: https://github.com/NyeUsr/NyeUsr-s-Goggles
+! author: SPL
+! homepage: https://github.com/SylvainPlace/SPL-Goggles
 ! avatar: #ca0800
+! forked from NoUsr https://github.com/NyeUsr/NyeUsr-s-Goggles
 
 zenodo.org$boost=10
 explore.openaire.eu$boost=10
